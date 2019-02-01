@@ -53,10 +53,6 @@ cask java
 tap rcmdnk/file
 brew brew-file
 
-tap techops/tools
-brew apptio-certs
-brew kube-config
-
 # Other Homebrew packages
 brew python3
 
